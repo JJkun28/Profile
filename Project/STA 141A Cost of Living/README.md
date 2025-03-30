@@ -11,10 +11,9 @@ This project analyzes the affordability of living in U.S. counties by developing
 ## Methodology
 
 - **Normalization**: Rescaled all cost-related variables to standardize their influence.
-- **Index Formula**:  
-  $
-  \text{Affordability Index} = \frac{\text{Normalized Income}}{\text{Normalized Total Cost}}
-  $
+- **Index Formula:**  
+Affordability Index = Normalized Income / Normalized Total Cost
+
 - **Visualization**: Used density plots and scatterplots to show regional patterns and cost/income relationships.
 - **Modeling**: Used linear regression to assess the impact of family size on affordability.
 
