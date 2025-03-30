@@ -20,9 +20,9 @@ This project analyzes the affordability of living in U.S. counties by developing
 
 ## Contents
 
-- `STA_141A_Final_Project.pdf`: Full report with methodology, results, and visualizations.
-- `cost_of_living_us.csv`: dataset for analysis
-- No source code included due to data access and academic integrity guidelines.
+- `STA_141A_Final_Project.pdf`: Full report including methodology, results, and visualizations.
+- `cost_of_living_us.csv`: Dataset used for analysis.
+- Source code not included due to academic integrity and course policy. *(Available upon request.)*
 
 ## Key Insights
 
