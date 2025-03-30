@@ -12,9 +12,9 @@ This project analyzes the affordability of living in U.S. counties by developing
 
 - **Normalization**: Rescaled all cost-related variables to standardize their influence.
 - **Index Formula**:  
-  \[
+  $
   \text{Affordability Index} = \frac{\text{Normalized Income}}{\text{Normalized Total Cost}}
-  \]
+  $
 - **Visualization**: Used density plots and scatterplots to show regional patterns and cost/income relationships.
 - **Modeling**: Used linear regression to assess the impact of family size on affordability.
 
@@ -33,7 +33,6 @@ This project analyzes the affordability of living in U.S. counties by developing
 ## Tools Used
 
 - **R**, `ggplot2`, `dplyr`, `lm()` modeling
-- Data from the **Economic Policy Institute** Family Budget Calculator (2020)
 
 ---
 
