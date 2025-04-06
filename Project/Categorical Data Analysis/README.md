@@ -1,6 +1,6 @@
 # Occupational Risk of Byssinosis in Cotton Textile Workers
 
-This project investigates the relationship between workplace exposure and the respiratory disease **byssinosis** using real-world health and employment data. It was completed as part of **STA 138: Introduction to Biostatistics** at UC Davis.
+This project investigates the relationship between workplace exposure and the respiratory disease **byssinosis** using real-world health and employment data. It was completed as part of **STA 138: Analysis of Categorical Data** at UC Davis.
 
 ## 📌 Project Summary
 
