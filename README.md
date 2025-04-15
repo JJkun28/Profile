@@ -26,7 +26,7 @@ Welcome to my project portfolio! This repository collects selected projects I've
 
 ## 📚 Background
 
-- 🎓 **B.S. in Statistics** – UC Davis (Data Science Emphasis)
+- 🎓 **B.S. in Statistics** – UC Davis (Data Science Track)
 
 ---
 
