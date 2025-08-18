@@ -1,6 +1,6 @@
 # NCAA Basketball Web Scraping & Analysis
 
-This project extracts team-level statistics from the NCAA Men's Basketball website using **Selenium WebDriver** and **XPath**. It was completed as part of **STA 141B: Data Technologies for Statistical Analysis** at UC Davis.
+This project extracts team-level statistics from the NCAA Men's Basketball website using **Selenium WebDriver** and **XPath**. 
 
 ## 📌 Project Summary
 
